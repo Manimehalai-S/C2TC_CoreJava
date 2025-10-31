@@ -40,4 +40,9 @@ public class Person {
 		this.personCity = personCity;
 	}
 
+	public void displayInfo() {
+	
+		
+	}
+
 }
